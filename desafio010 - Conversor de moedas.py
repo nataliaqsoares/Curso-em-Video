@@ -4,4 +4,4 @@ Considere US$ 1,00 = R$ 3,27"""
 
 reais = float(input('Informe quantos reais tem na carteira: '))
 dolares = reais / 3.27
-print('Com {} reais você pode comprar {:.2f} dolares'.format(reais, dolares))
+print('Com {} reais você pode comprar {:.2f} dolares.'.format(reais, dolares))
