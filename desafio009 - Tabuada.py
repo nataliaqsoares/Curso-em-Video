@@ -2,7 +2,7 @@
 Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada."""
 
 n = int(input('Informe o número da tabuada: '))
-print('A tabuada de {} é:'.format(n))
+print('A tabuada de {} é: '.format(n))
 print('01 x {} = {}'.format(n, n * 1))
 print('02 x {} = {}'.format(n, n * 2))
 print('03 x {} = {}'.format(n, n * 3))
