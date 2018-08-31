@@ -8,4 +8,5 @@ print(n1 + n2)
 # Correção
 n3 = int(input('Informe um número: '))
 n4 = int(input('Informe mais um numero: '))
+
 print(n3 + n4)
