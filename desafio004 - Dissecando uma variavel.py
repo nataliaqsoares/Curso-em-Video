@@ -2,7 +2,7 @@
 Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis
 sobre ele"""
 
-msg = input('Digite algo: ')
+msg = input(' Digite algo: ')
 print('O valor {} e ele é do tipo primitivo desse valor é {}'.format(msg, type(msg)))
 print('Esse valor é númerico? {}'.format(msg.isnumeric()))
 print('Esse valor é alfabetico? {}'.format(msg.isalpha()))
