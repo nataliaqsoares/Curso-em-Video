@@ -15,5 +15,9 @@ int = trunc(num)
 print('O número {} tem a porção inteira de {}'.format(num, int))
 
 # Solução 3
-num = float(input('Informe um real qualquer: '))
+num = float(input('Informe um núemro real qualquer: '))
 print('O número {} tem a porção interira de {:.0f}'.format(num, num // 1))
+
+# Solução 4
+num = float(input('Informe um número real qualquer: '))
+print('O número {} tema a porção interira de {}'.format(num, int(num)))
