@@ -4,8 +4,7 @@ Faça um programa que leia uma frase pelo teclado e mostre:
 - Em que posição ela aparece a primeira vez
 - Em que posição ela aparece pela ultima vez """
 
-frase = input('Digite uma frase: ')
-frase = frase.lower().strip()
+frase = str(input('Digite uma frase: ')).lower().strip()
 letras = frase.count('a')
 primeiro = frase.find('a')
 ultimo = frase.rfind('a')
