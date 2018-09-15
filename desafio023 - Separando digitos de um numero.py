@@ -10,7 +10,7 @@ milhar: 1 """
 num = input('Digite um número entre 0 e 9999: ')
 print('Unidade: {} \nDezena: {} \nCentena: {} \nMilhar: {}'.format(num[3], num[2], num[1], num[0]))
 
-# Solução 2
+# Solução 2: com a lógica matematica é possível obter o resultado desejado independente de quantas unidades sejam usadas
 n = int(input('Digite um número entre 0 e 9999: '))
 u = n % 10
 d = n // 10 % 10
