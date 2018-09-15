@@ -5,7 +5,7 @@ Crie um programa que leia o nome completo de uma pessoa e mostre:
 - Quantas letras tem ao todosem considerar espaços
 - Quantas letras tem o primeiro nome """
 
-nome = str(input('Informe seu nome completo: '))
+nome = str(input('Informe seu nome completo: ')).strip()
 maiusculo = nome.upper()
 minusculo = nome.lower()
 nome = nome.split()
