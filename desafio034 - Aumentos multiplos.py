@@ -7,4 +7,4 @@ if salario <= 1250:
     novo_salario = salario + (salario * 0.15)
 else:
     novo_salario = salario + (salario * 0.10)
-print('O seu salário atual é de R$ {:.2f} e com o aumento passara a ser de R$ {:.2f}'.format(salario, novo_salario))
+print('O seu salário atual é de R$ {:.2f} e com o aumento passará a ser de R$ {:.2f}'.format(salario, novo_salario))
