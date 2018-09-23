@@ -8,6 +8,7 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo"""
 from datetime import date
 
 nasc = int(input('Informe seu ano de nascimento: '))
+
 idade = date.today().year - nasc
 
 if idade < 18:
