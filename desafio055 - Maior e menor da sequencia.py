@@ -12,4 +12,4 @@ for c in range(0, 4):
     elif peso < menor:
         menor = peso
 
-print('Maior peso: {}\nMenor peso: {}'.format(maior, menor))
+print('Maior peso: {}Kg\nMenor peso: {}Kg'.format(maior, menor))
