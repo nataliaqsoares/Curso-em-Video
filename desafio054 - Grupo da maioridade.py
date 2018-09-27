@@ -13,4 +13,4 @@ for c in range(0, 7):
         maior += 1
     else:
         menor += 1
-print('Das 7 pessoas, {} são maiores de idade e {} menores de idade'.format(maior, menor))
+print('Das 7 pessoas, {} são maiores de idade e {} são menores de idade'.format(maior, menor))
