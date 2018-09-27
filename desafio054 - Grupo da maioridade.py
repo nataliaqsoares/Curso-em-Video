@@ -9,8 +9,9 @@ menor = 0
 
 for c in range(0, 7):
     ano = int(input('Digite seu ano de nascimento: '))
-    if date.today().year - ano > 21:
+    if date.today().year - ano >= 21:
         maior += 1
     else:
         menor += 1
+
 print('Das 7 pessoas, {} são maiores de idade e {} são menores de idade'.format(maior, menor))
