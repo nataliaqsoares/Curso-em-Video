@@ -21,9 +21,12 @@ while select != 5:
     elif select == 3:
         if num1 > num2:
             maior = num1
-        else:
+            print('Entre os números {} e {} o maior é {}'.format(num1, num2, maior))
+        elif num2 > num1:
             maior = num2
-        print('Entre os números {} e {} o maior é {}'.format(num1, num2, maior))
+            print('Entre os números {} e {} o maior é {}'.format(num1, num2, maior))
+        else:
+            print('Os dois números são iguais')
         print('=' * 40)
         select = int(input('O que gostaria de fazer?\n[ 1 ] Soma\n[ 2 ] Multiplica\n[ 3 ] Qual o maior\n[ 4 ] Informar'
                            ' novamente os números\n[ 5 ] Sair\n'))
