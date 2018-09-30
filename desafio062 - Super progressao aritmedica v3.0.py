@@ -15,6 +15,6 @@ while mais != 0:
     cont += 1
     if cont == mais:
         print('-' * 32)
-        mais = int(input('Deseja ver mais quantos termos? '))
+        mais = int(input('Deseja ver mais quantos termos? Coloque 0 caso não queira ver mais nenhum '))
         cont = 0
 print('Programa finalizado')
