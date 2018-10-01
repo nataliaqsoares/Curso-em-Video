@@ -3,19 +3,17 @@ Crie um programa que leia o nome e o preço de vários produtos. O programa deve
 No final, mostre: A) Qual é o total gasto na compra. B) Quantos produtos custam mais de R$ 1000. C) Qual é o nome do
 produto mais barato. """
 
-gasto = caro = barato = 0
+gasto = caro = barato = cont = 0
 
 while True:
     nome_produto = str(input('Informe o nome do produto: ')).strip()
     preco_produto = float(input('Informe o preço do produto: R$ '))
-
+    cont += 1
     gasto += preco_produto
+
     if preco_produto > 1000:
         caro += 1
-    if barato == 0:
-        barato = preco_produto
-        produto_barato = nome_produto
-    if preco_produto < barato:
+    if cont == 1 or preco_produto < barato:
         barato = preco_produto
         produto_barato = nome_produto
 
