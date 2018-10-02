@@ -23,3 +23,20 @@ if saque >= 1:
     print(f'Foram sacadas {notas} notas de R$ 1')
 
 print('Volte sempre!')
+
+""" Versão usando o while e listas (que ainda não foi mostrado)
+saque = int(input('Informe o valor a ser sacado: R$ '))
+
+cedula = [50, 20, 10, 1]
+cont = 0
+
+while True:
+    if saque >= cedula[cont]:
+        notas = saque // cedula[cont]
+        saque -= notas * cedula[cont]
+        print(f'Foram sacadas {notas} notas de R$ {cedula[cont]}')
+    cont += 1
+    if saque == 0:
+        break
+
+print('Volte sempre!')"""
