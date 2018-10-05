@@ -6,12 +6,10 @@ produtos = ('Papel sulfite 500 folhas', 23.9, 'Caneta Esferográfica', 1.4, 'Cad
             'Cola branca 110g', 5.5, 'Lápis de cor 24 cores', 21.2, 'Caderno Universitário 200 folha', 12.1,
             'Post-it 100 folhas', 20.5)
 print('=' * 50)
-print('Produtos da Papelaria')
+print(f'{"Produtos da Papelaria":^50}')
 print('=' * 50)
-print(f'{produtos[0]:.<40} R$ {produtos[1]:.2f}\n'
-      f'{produtos[2]:.<40} R$ {produtos[3]:.2f}\n'
-      f'{produtos[4]:.<40} R$ {produtos[5]:.2f}\n'
-      f'{produtos[6]:.<40} R$ {produtos[7]:.2f}\n'
-      f'{produtos[8]:.<40} R$ {produtos[9]:.2f}\n'
-      f'{produtos[10]:.<40} R$ {produtos[11]:.2f}\n'
-      f'{produtos[12]:.<40} R$ {produtos[13]:.2f}')
+for item in range(0, len(produtos)):
+    if item % 2 == 0:
+        print(f'{produtos[item]:.<40}', end=' ')
+    else:
+        print(f'R$ {produtos[item]:>5.2f}')
