@@ -24,4 +24,3 @@ for conj in matriz:
 print('=' * 40)
 print(f'A soma dos números pares é igual a {somapar}.\nA soma dos números da terceira coluna é igual a {somacol}.\n'
       f'O maior valor da segunda linha é {max(matriz[1])}.')
-
