@@ -1,5 +1,5 @@
-"""Desafio 001.1
-Crie um programa que escreva 'Olá, Mundo!' na tela usando emoticons"""
+""" Desafio 001.1
+Crie um programa que escreva 'Olá, Mundo!' na tela usando emoticons """
 
 import emoji
 print(emoji.emojize('Olá :earth_americas:!', use_aliases=True))
