@@ -1,9 +1,10 @@
 """ Desafio 061
 Refaça o Defasio 051, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progreção usando
-a estrutura while. """
+a estrutura while """
 
 inicio = int(input('Informe o primeiro termo da progressão aritmetica: '))
 razao = int(input('Informe a razão da progressão: '))
+
 pa = cont = 0
 
 while cont < 9:
