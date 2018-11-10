@@ -1,5 +1,5 @@
-"""Desafio 009
-Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada."""
+""" Desafio 009
+Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada. """
 
 n = int(input('Informe o número da tabuada: '))
 print('A tabuada de {} é: '.format(n))
