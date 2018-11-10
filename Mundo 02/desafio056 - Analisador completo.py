@@ -1,6 +1,6 @@
 """ Desafio 056
 Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: - a média de idade do
-grupo; - qual é o nome do homem mais velho; - quantas mulheres têm menos de 20 anos. """
+grupo; - qual é o nome do homem mais velho; - quantas mulheres têm menos de 20 anos """
 
 soma_idade = 0
 maior_idade = 0
@@ -12,6 +12,7 @@ for c in range(0, 4):
     idade = int(input('Informe a sua idade: '))
     sexo = str(input('Informe o seu sexo: [M/F]')).upper()
     soma_idade += idade
+    
     if idade > maior_idade and sexo == 'M':
         maior_idade = idade
         nome_mais_velho = nome
