@@ -24,7 +24,8 @@ if saque >= 1:
 
 print('Volte sempre!')
 
-""" Versão usando o while e listas (que ainda não foi mostrado)
+# Versão usando o while e listas (que ainda não foi mostrado)
+
 saque = int(input('Informe o valor a ser sacado: R$ '))
 
 cedula = [50, 20, 10, 1]
@@ -39,4 +40,4 @@ while True:
     if saque == 0:
         break
 
-print('Volte sempre!')"""
+print('Volte sempre!')
