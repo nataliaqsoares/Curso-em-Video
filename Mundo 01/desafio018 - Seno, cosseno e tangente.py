@@ -1,5 +1,5 @@
-"""Desafio 018
-Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse angulo"""
+""" Desafio 018
+Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse angulo """
 
 # Solução 1
 import math
