@@ -12,7 +12,7 @@ for c in range(0, 4):
     idade = int(input('Informe a sua idade: '))
     sexo = str(input('Informe o seu sexo: [M/F]')).upper()
     soma_idade += idade
-    
+
     if idade > maior_idade and sexo == 'M':
         maior_idade = idade
         nome_mais_velho = nome
