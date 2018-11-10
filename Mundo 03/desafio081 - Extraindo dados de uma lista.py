@@ -14,6 +14,7 @@ while True:
 
 valores.sort(reverse=True)
 print(f'Foram digitados ao todo {len(valores)} números.\nO números em ordem decrescente ficam: {valores}')
+
 if 5 in valores:
     print('O número 5 está na lista')
 else:
