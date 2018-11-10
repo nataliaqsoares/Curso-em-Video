@@ -2,25 +2,33 @@
   <dictionary name="Natália">
     <words>
       <w>acordo</w>
+      <w>apenas</w>
       <w>atual</w>
       <w>aumento</w>
       <w>calcule</w>
       <w>cobrando</w>
       <w>crie</w>
       <w>custa</w>
+      <w>daqueles</w>
       <w>desafio</w>
+      <w>desconsidere</w>
       <w>desenvolva</w>
+      <w>diga</w>
       <w>digitado</w>
+      <w>digite</w>
       <w>distância</w>
       <w>distâncias</w>
       <w>dois</w>
       <w>escreva</w>
+      <w>forem</w>
       <w>funcionário</w>
       <w>guanabara</w>
       <w>iguais</w>
       <w>inferiores</w>
       <w>informados</w>
       <w>informe</w>
+      <w>inteiro</w>
+      <w>inteiros</w>
       <w>longas</w>
       <w>maior</w>
       <w>mais</w>
@@ -37,12 +45,15 @@
       <w>pergunte</w>
       <w>pessoa</w>
       <w>preço</w>
+      <w>primo</w>
       <w>programa</w>
       <w>qual</w>
       <w>salário</w>
       <w>salários</w>
+      <w>seis</w>
       <w>seja</w>
       <w>solução</w>
+      <w>soma</w>
       <w>superiores</w>
       <w>tela</w>
       <w>três</w>
@@ -51,6 +62,7 @@
       <w>viagens</w>
       <w>vindas</w>
       <w>vindo</w>
+      <w>ímpar</w>
     </words>
   </dictionary>
 </component>
