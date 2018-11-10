@@ -4,9 +4,11 @@ descobrir qual foi o número escolhido pelo computador. O programa deverá escre
 """
 
 from random import randint
+
 print('Estou pensando em um número entre 0 e 5...')
 n1 = randint(0, 5)
 n2 = int(input('Em qual número eu pensei? '))
+
 if n1 == n2:
     print('Você acertou!')
 else:
