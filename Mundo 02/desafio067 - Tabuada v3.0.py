@@ -1,6 +1,6 @@
 """ Desafio 067
 Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. O
-programa será interrompido quando o número solicitado for negativo."""
+programa será interrompido quando o número solicitado for negativo """
 
 while True:
     n = int(input('Informe um número para ver sua tabuada ou um número negativa para parar: '))
