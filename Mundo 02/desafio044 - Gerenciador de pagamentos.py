@@ -4,8 +4,8 @@ pagamento: - à vista dinheiro/cheque: 10% de desconto; - à vista no cartão: 5
 normal; - 3x ou mais no cartão: 20% de juros; """
 
 produto = float(input('Qual o preço do produto? R$'))
-pag = int(input('Como deseja pagar?\n[ 1 ] à vista no dinheiro ou cheque\n[ 2 ] à vista no cartão'
-                '\n[ 3 ] em 2x no cartão\n[ 4 ] em 3x ou mais no cartão\n:'))
+pag = int(input('Como deseja pagar?\n[ 1 ] à vista no dinheiro ou cheque\n[ 2 ] à vista no cartão\n[ 3 ] 2x no cartão'
+                '\n[ 4 ] 3x ou mais no cartão\n:'))
 
 if pag == 1:
     novo_preco = produto - (produto * 0.1)
