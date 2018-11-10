@@ -1,6 +1,6 @@
 """ Desafio 084
 Faça um programa que leia nome e peso de várias pessoas, guardando tudo em uma lista. No final, mostre: a) Quantas
-pessoas foram cadastradas b) uma listagem com as pessoas mais pesadas c) uma listagem com as pessoas mais leves. """
+pessoas foram cadastradas b) uma listagem com as pessoas mais pesadas c) uma listagem com as pessoas mais leves """
 
 pessoas = list()
 dados = list()
