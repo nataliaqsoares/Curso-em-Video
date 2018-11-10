@@ -11,5 +11,4 @@ minusculo = nome.lower()
 nome = nome.split()
 letras = len(''.join(nome))
 print('Seu nome em maiúsculo é {}\nSeu nome em minúsculo é {} \nSeu nome tem ao todo {} letras \nSeu primeiro nome é {}'
-      ' e ele tem {} letras'
-      .format(maiusculo, minusculo, letras, nome[0], len(nome[0])))
+      ' e ele tem {} letras'.format(maiusculo, minusculo, letras, nome[0], len(nome[0])))
