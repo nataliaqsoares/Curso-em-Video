@@ -4,10 +4,12 @@ Crie um programa que leia vários números inteiros pelo teclado. O programa só
 (desconsiderando o flag) """
 
 cont = s = 0
+
 while True:
     num = int(input('Digite um número inteiro ou 999 para parar: '))
     if num == 999:
         break
     s += num
     cont += 1
+
 print(f'Foram digitados {cont} números e a soma deles é igual a {s}')
