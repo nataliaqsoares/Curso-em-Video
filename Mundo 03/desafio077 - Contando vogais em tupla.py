@@ -4,6 +4,7 @@ palavra, quais são as suas vogais """
 
 palavras = ('Aprender', 'Programar', 'Linguagem', 'Python', 'Curso', 'Gratis', 'Estudar', 'Praticar', 'Trabalhar',
             'Mercado', 'Programador', 'Futuro')
+
 for palavra in palavras:
     print(f'Na palavra {palavra} temos as vogais: ', end='')
     for letra in palavra:
