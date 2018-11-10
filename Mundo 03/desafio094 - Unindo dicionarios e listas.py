@@ -1,7 +1,7 @@
 """ Desafio 094
 Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de cada pessoa em um dicionario e
 todos os dicionarios em uma lista. No final, mostre: a) Quantas pessoas foram cadastradas b) a media de idade do grupo
-c) uma lista com todas as mulheres d) uma lista com todas as pessoas com idade acima da media"""
+c) uma lista com todas as mulheres d) uma lista com todas as pessoas com idade acima da media """
 
 pessoa = dict()
 grupo = list()
@@ -29,6 +29,7 @@ print(f'As mulheres cadastradas foram: ', end='')
 for p in grupo:
     if p['Sexo'] in 'Ff':
         print(p['Nome'], end=' ')
+
 print(f'\nA lista de pessoas acima da média de idade são: ')
 for pes in grupo:
     if pes['Idade'] > media/len(grupo):
