@@ -1,6 +1,6 @@
 """ Desafio 042
 Refaça o defsaio 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
-- equilátero: todos os lados iguais; - isósceles: dois lados iguais; - escaleno: todos os lados diferentes; """
+- Equilátero: todos os lados iguais; - Isósceles: dois lados iguais; - Escaleno: todos os lados diferentes; """
 
 reta1 = float(input('Informe o valor da primeira reta:'))
 reta2 = float(input('Informe o valor da segunda reta:'))
