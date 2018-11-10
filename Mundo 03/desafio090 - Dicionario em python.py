@@ -1,7 +1,7 @@
 """ Desafio 090
 Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. No final, mostre o
 conteúdo da estrutura na tela. Obs.: se a média for 7 ou mais, está aprovado, se for < 7, recuperação, se for < 5 está
-reprovado."""
+reprovado """
 
 boletim = dict()
 
