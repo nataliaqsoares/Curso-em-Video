@@ -1,5 +1,5 @@
-"""Desafio 003
-Crie um programa que leia dois números e tente mostrar a soma entre eles"""
+""" Desafio 003
+Crie um programa que leia dois números e tente mostrar a soma entre eles """
 
 n1 = input('Informe um número: ')
 n2 = input('Informe mais um número: ')
