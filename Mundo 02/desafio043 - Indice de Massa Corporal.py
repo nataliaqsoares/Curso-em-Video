@@ -1,7 +1,7 @@
 """ Desafio 043
 Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com a
-tabela abaixo: - abaixo de 18.5: abaixo do peso; - entre 18.5 e 25: peso ideal; - 25 até 30: sobrepeso; - 30 até 40:
-obesidade; - acima de 40: obesidade mórbida; """
+tabela abaixo: - Abaixo de 18.5: abaixo do peso; - Entre 18.5 e 25: peso ideal; - 25 até 30: sobrepeso; - 30 até 40:
+obesidade; - Acima de 40: obesidade mórbida; """
 
 peso = float(input('Informe o seu peso (Kg): '))
 altura = float(input('Infome a sua altura (m): '))
