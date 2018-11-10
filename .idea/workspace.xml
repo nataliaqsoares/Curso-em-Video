@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad6a5bbf-1525-4c87-ba46-391e1513e811" name="Default Changelist" comment="Faça um programa que leia o ano de nascimento e o sexo dos jovem e informe, de acordo com sua idade e sexo:&#10;- Se for do sexo feminino, informar que não há necessidade de fazer o alistamento;&#10;- Se for do sexo masculino, verificar a idade e informar:&#10;- Se ele ainda vai se alistar ao serviço militar;&#10;- Se é a hora de se alistar;&#10;- Se já passou do tempo do alistamento.&#10;Seu programa também deverá mostrar o tempo que falta ou que passou do prazo">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Natália.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Natália.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 01/desafio031 - Custo da viagem.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 01/desafio031 - Custo da viagem.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +16,7 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="46" />
-          <entry key="project.open.time.0" value="20" />
+          <entry key="project.open.time.0" value="21" />
           <entry key="project.open.time.1" value="10" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
@@ -32,31 +32,31 @@
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="52" />
+          <entry key="project.opened" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="500" />
+          <entry key="py" value="539" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="500" />
+          <entry key="Python" value="539" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="680" />
           <entry key="dummy" value="24" />
-          <entry key="py" value="77512" />
-          <entry key="txt" value="2731" />
+          <entry key="py" value="77610" />
+          <entry key="txt" value="2757" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="2755" />
-          <entry key="Python" value="78192" />
+          <entry key="PLAIN_TEXT" value="2781" />
+          <entry key="Python" value="78290" />
         </counts>
       </usages-collector>
     </session>
@@ -65,7 +65,37 @@
     <favorites_list name="desafios" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Mundo 01/desafio031 - Custo da viagem.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mundo 01/desafio032 - Ano bissexto.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mundo 01/desafio033 - Maior e menor valores.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mundo 01/desafio034 - Aumentos multiplos.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mundo 01/desafio035 - Analisando triangulos v1.0.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,41 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/desafio056 - Analisador completo.py" />
-        <option value="$PROJECT_DIR$/desafio052 - Numeros primos.py" />
-        <option value="$PROJECT_DIR$/desafio053 - Detector de palindromo.py" />
-        <option value="$PROJECT_DIR$/desafio057 - Validacao de dados.py" />
-        <option value="$PROJECT_DIR$/desafio058 - Jogo de Adivinhacao v2.0.py" />
-        <option value="$PROJECT_DIR$/desafio059 - Criando um menu de opcoes.py" />
-        <option value="$PROJECT_DIR$/desafio061 - Progressao aritmetica v2.0.py" />
-        <option value="$PROJECT_DIR$/desafio051 - Progressao aritmetica.py" />
-        <option value="$PROJECT_DIR$/desafio062 - Super progressao aritmedica v3.0.py" />
-        <option value="$PROJECT_DIR$/desafio064 - Tratando varios valores v1.0.py" />
-        <option value="$PROJECT_DIR$/desafio065 - Maior e menor valores.py" />
-        <option value="$PROJECT_DIR$/desafio060 - Calculo do fatorial.py" />
-        <option value="$PROJECT_DIR$/desafio063 - Sequencia de fibonacci.py" />
-        <option value="$PROJECT_DIR$/desafio067 - Tabuada v3.0.py" />
-        <option value="$PROJECT_DIR$/desafio068 - Jogo do par ou impar.py" />
-        <option value="$PROJECT_DIR$/desafio069 - Analise de dados do grupo.py" />
-        <option value="$PROJECT_DIR$/desafio066 - Varios numeros com flag.py" />
-        <option value="$PROJECT_DIR$/desafio070 - Estatisticas em produtos.py" />
-        <option value="$PROJECT_DIR$/desafio071 - Simulador de caixa eletronico.py" />
-        <option value="$PROJECT_DIR$/desaio073 - Tuplas com times de futebol.py" />
-        <option value="$PROJECT_DIR$/desafio074 - Maior e menor valores com tupla.py" />
-        <option value="$PROJECT_DIR$/desafio072 - Numero por extenso.py" />
-        <option value="$PROJECT_DIR$/desafio073 - Tuplas com times de futebol.py" />
-        <option value="$PROJECT_DIR$/desafio075 - Analise de dados em uma tupla.py" />
-        <option value="$PROJECT_DIR$/desafio076 - Lista de precos com tuplas.py" />
-        <option value="$PROJECT_DIR$/desafio077 - Contando vogais em tupla.py" />
-        <option value="$PROJECT_DIR$/desafio082 - Dividindo valores em várias listas.py" />
-        <option value="$PROJECT_DIR$/desafio082 - Dividindo valores em varias listas.py" />
-        <option value="$PROJECT_DIR$/desafio078 - Maior e menor valores na lista.py" />
-        <option value="$PROJECT_DIR$/desafio079 - Valores unicos em uma lista.py" />
-        <option value="$PROJECT_DIR$/desafio080 - Lista ordenada sem repeticoes.py" />
-        <option value="$PROJECT_DIR$/desafio081 - Extraindo dados de uma lista.py" />
-        <option value="$PROJECT_DIR$/desafio083 - Validando expressões matematicas.py" />
-        <option value="$PROJECT_DIR$/aula085 - Listas com pares e impares.py" />
-        <option value="$PROJECT_DIR$/desafio084 - Listas compostas e analise de dados.py" />
         <option value="$PROJECT_DIR$/desafio085 - Listas com pares e impares.py" />
         <option value="$PROJECT_DIR$/desafio086 - Matriz em Python.py" />
         <option value="$PROJECT_DIR$/desafio087 - Mais sobre matriz em Python.py" />
@@ -138,10 +133,45 @@
         <option value="$PROJECT_DIR$/desafio099 -.py" />
         <option value="$PROJECT_DIR$/desafio100 -.py" />
         <option value="$PROJECT_DIR$/desafio098 - Funcao de contador.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio001.1 - Ola Mundo.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio001 - Ola Mundo.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio002.1 - Data de nascimento.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio002 - Respondendo ao Usuario.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio003 - Somando dois numeros.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio004 - Dissecando uma variavel.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio005 - Antecessor e Sucessor.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio006 - Dobro, triplo, raiz quadrada.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio007 - Media aritmetica.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio008.1 - Conversor de medidas completo.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio008 - Conversor de medidas.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio009 - Tabuada.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio010.1 - Conversor de moedas.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio010 - Conversor de moedas.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio011 - Pintando parede.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio012 - Calculando desconto.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio013 - Reajuste salarial.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio014 - Conversor de temperaturas.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio015 - Aluguel de carros.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio016 - Quebrando um numero.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio017 - Catetos e hipotenusas.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio018 - Seno, cosseno e tangente.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio019 - Sorteando um item na lista.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio020 - Sorteando uma ordem na lista.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio021 - Tocando um mp3.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio022 - Analisador de textos.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio023 - Separando digitos de um numero.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio024 - Verificando as primeiras letras de um texto.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio025 - Procurando uma string dentro de outra.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio026 - Primeira e ultima ocorrencia de uma string.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio027 - Primeiro e ultimo nome de uma pessoa.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio028 - Jogo de Adivinhacao v.1.0.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio029 - Radas eletronico.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio030 - Par ou impar.py" />
+        <option value="$PROJECT_DIR$/Mundo 01/desafio031 - Custo da viagem.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -175,6 +205,11 @@
             <path>
               <item name="desafios" type="b2602c69:ProjectViewProjectNode" />
               <item name="desafios" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="desafios" type="b2602c69:ProjectViewProjectNode" />
+              <item name="desafios" type="462c0819:PsiDirectoryNode" />
+              <item name="Mundo 01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -340,251 +375,6 @@
       <option name="presentableId" value="Default" />
       <updated>1535221138618</updated>
     </task>
-    <task id="LOCAL-00092" summary="Melhore o desafio 061, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerra quando ele disser que quer mostrar 0 termos.">
-      <created>1538322281297</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1538322281297</updated>
-    </task>
-    <task id="LOCAL-00093" summary="Melhore o Desafio 061, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerra quando ele disser que quer mostrar 0 termos.&#10;&#10;- Correção: saida onde se pergunta quantos termos a mais deseja ver">
-      <created>1538323561643</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1538323561643</updated>
-    </task>
-    <task id="LOCAL-00094" summary="Crie um programa que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o flag)">
-      <created>1538324903756</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1538324903757</updated>
-    </task>
-    <task id="LOCAL-00095" summary="Crie um programa que leia vários números inteiros pelo teclado. No final da execução, mostre a média entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores.">
-      <created>1538327048152</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1538327048152</updated>
-    </task>
-    <task id="LOCAL-00096" summary="Faça um programa que leia um número qualquer e mostre o seu fatorial.">
-      <created>1538332945394</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1538332945395</updated>
-    </task>
-    <task id="LOCAL-00097" summary="Escreva um programa que leia um número n inteiro qualquer e mostre na tela os n primeiros elementos de uma Sequência de Fibonacci.">
-      <created>1538336336804</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1538336336805</updated>
-    </task>
-    <task id="LOCAL-00098" summary="Crie um programa que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o flag)">
-      <created>1538402305495</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1538402305495</updated>
-    </task>
-    <task id="LOCAL-00099" summary="Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. O programa será interrompido quando o número solicitado for negativo.">
-      <created>1538402894112</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1538402894112</updated>
-    </task>
-    <task id="LOCAL-00100" summary="Faça um programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o jogador PERDER, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.">
-      <created>1538404982851</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1538404982851</updated>
-    </task>
-    <task id="LOCAL-00101" summary="Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre: A) quantas pessoas tem mais de 18 anos. B) quantos homens foram cadastrados. C) quantas mulheres tem menos de 20 anos. Caso erre, o programa deve solicitar a informação novamente">
-      <created>1538406867824</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1538406867824</updated>
-    </task>
-    <task id="LOCAL-00102" summary="Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar. No final, mostre: A) Qual é o total gasto na compra. B) Quantos produtos custam mais de R$ 1000. C) Qual é o nome do produto mais barato.">
-      <created>1538409733212</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1538409733212</updated>
-    </task>
-    <task id="LOCAL-00103" summary="Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar. No final, mostre: A) Qual é o total gasto na compra. B) Quantos produtos custam mais de R$ 1000. C) Qual é o nome do produto mais barato.&#10;&#10;- Alteração: inclusão de um contador e simplificação do if">
-      <created>1538423286388</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1538423286388</updated>
-    </task>
-    <task id="LOCAL-00104" summary="Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues. Obs.: Considere que o caixa possui cédulas de R$ 50, R$ 20, R$ 10 e R$ 1">
-      <created>1538494679512</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1538494679513</updated>
-    </task>
-    <task id="LOCAL-00105" summary="Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues. Obs.: Considere que o caixa possui cédulas de R$ 50, R$ 20, R$ 10 e R$ 1&#10;&#10;- Alteração: inclusão da versão com while, mas com listas, que ainda não foi apresentado">
-      <created>1538495457618</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1538495457618</updated>
-    </task>
-    <task id="LOCAL-00106" summary="Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero até vinte. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.">
-      <created>1538581430319</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1538581430319</updated>
-    </task>
-    <task id="LOCAL-00107" summary="Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre: A) apenas os 5 primeiros colocados; B) os ultimos 4 colocados da tabela; C) uma lista com os times em ordem alfabética; D) em que posição na tabela está o time da chapecoense">
-      <created>1538583084831</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1538583084831</updated>
-    </task>
-    <task id="LOCAL-00108" summary="Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.">
-      <created>1538587891921</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1538587891921</updated>
-    </task>
-    <task id="LOCAL-00109" summary="Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.">
-      <created>1538590199335</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1538590199335</updated>
-    </task>
-    <task id="LOCAL-00110" summary="Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero até vinte. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.&#10;&#10;- Inclusão: inclusão da opção do usuario verificar mais números">
-      <created>1538746458858</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1538746458859</updated>
-    </task>
-    <task id="LOCAL-00111" summary="Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre: a) apenas os 5 primeiros colocados; b) os ultimos 4 colocados da tabela; c) uma lista com os times em ordem alfabética; d) em que posição na tabela está o time da chapecoense&#10;&#10;- Correções: os 5 primeiros times da tabela, que antes apareciam 6; ordem em que os quatro ultimos colocados apareciam; utilização da fstring nos dois ultimos">
-      <created>1538748128421</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1538748128421</updated>
-    </task>
-    <task id="LOCAL-00112" summary="Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre: a) quantas vezes apareceu o valor 9; b) em que posição foi digitado o primeiro valor 3; c) quais foram os números pares;">
-      <created>1538750832842</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1538750832842</updated>
-    </task>
-    <task id="LOCAL-00113" summary="Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre: a) quantas vezes apareceu o valor 9; b) em que posição foi digitado o primeiro valor 3; c) quais foram os números pares;&#10;&#10;- Alteração: simplificação da tupla e exceção para quando nenhum número par é colocado">
-      <created>1538753118685</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1538753118685</updated>
-    </task>
-    <task id="LOCAL-00114" summary="Crie um programa que tenha uma tupla única com nomes de produtos e seus prestectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.">
-      <created>1538760207046</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1538760207046</updated>
-    </task>
-    <task id="LOCAL-00115" summary="Crie um programa que tenha uma tupla única com nomes de produtos e seus prestectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.&#10;&#10;- Alteração: simplificação do print">
-      <created>1538761554801</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1538761554802</updated>
-    </task>
-    <task id="LOCAL-00116" summary="Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais">
-      <created>1538762537768</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1538762537768</updated>
-    </task>
-    <task id="LOCAL-00117" summary="Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.">
-      <created>1539785340563</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1539785340564</updated>
-    </task>
-    <task id="LOCAL-00118" summary="Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista la dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados em ordem crescente">
-      <created>1539786153284</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1539786153285</updated>
-    </task>
-    <task id="LOCAL-00119" summary="Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela.">
-      <created>1539790386758</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1539790386759</updated>
-    </task>
-    <task id="LOCAL-00120" summary="Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, mostre: a) quantos números foram digitados. b) a lista de valores ordenada de forma decrescente; c) se o valor 5 foi digitado e está ou não na lista">
-      <created>1539791759856</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1539791759856</updated>
-    </task>
-    <task id="LOCAL-00121" summary="Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente. Ao final, mostre o conteúdo das três listas geradas.">
-      <created>1539792767196</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1539792767196</updated>
-    </task>
-    <task id="LOCAL-00122" summary="Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta">
-      <created>1539794533374</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1539794533374</updated>
-    </task>
-    <task id="LOCAL-00123" summary="Faça um programa que leia nome e peso de várias pessoas, guardando tudo em uma lista. No final, mostre: a) Quantas pessoas foram cadastradas b) uma listagem com as pessoas mais pesadas c) uma listagem com as pessoas mais leves.">
-      <created>1540313530150</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1540313530150</updated>
-    </task>
-    <task id="LOCAL-00124" summary="Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e ímpares. No final, mostre os valores pares e ímpares em ordem crescente.">
-      <created>1540315535727</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1540315535727</updated>
-    </task>
-    <task id="LOCAL-00125" summary="Crie um programa que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado. No final, mostre a matriz na tela, com a formatação correta.">
-      <created>1540480531776</created>
-      <option name="number" value="00125" />
-      <option name="presentableId" value="LOCAL-00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1540480531777</updated>
-    </task>
-    <task id="LOCAL-00126" summary="Aprimore o desafio anterior, mostrando no final: a) a soma de todos os valores pares digitados b) a soma dos valores da terceira coluna c) o maior valor da segunda linha.">
-      <created>1540482948713</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1540482948713</updated>
-    </task>
     <task id="LOCAL-00127" summary="Aprimore o desafio anterior, mostrando no final: a) a soma de todos os valores pares digitados b) a soma dos valores da terceira coluna c) o maior valor da segunda linha.">
       <created>1540483193541</created>
       <option name="number" value="00127" />
@@ -683,7 +473,252 @@
       <option name="project" value="LOCAL" />
       <updated>1541291488491</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="Crie um programa que escreva 'Olá, Mundo!' na tela usando emoticons">
+      <created>1541864708076</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1541864708077</updated>
+    </task>
+    <task id="LOCAL-00142" summary="Crie um programa que escreva 'Olá, Mundo!' na tela">
+      <created>1541864735684</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1541864735684</updated>
+    </task>
+    <task id="LOCAL-00143" summary="Crie um programa que leia o dia, o mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada (mensagem de saida = Você nasceu no dia x de x de x. Correto?)">
+      <created>1541864787242</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1541864787242</updated>
+    </task>
+    <task id="LOCAL-00144" summary="Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo com o valor digitado.">
+      <created>1541864814314</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1541864814314</updated>
+    </task>
+    <task id="LOCAL-00145" summary="Crie um programa que leia dois números e tente mostrar a soma entre eles">
+      <created>1541864838572</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1541864838572</updated>
+    </task>
+    <task id="LOCAL-00146" summary="Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele">
+      <created>1541864869420</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1541864869420</updated>
+    </task>
+    <task id="LOCAL-00147" summary="Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor">
+      <created>1541864895844</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1541864895844</updated>
+    </task>
+    <task id="LOCAL-00148" summary="Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada">
+      <created>1541864955707</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1541864955707</updated>
+    </task>
+    <task id="LOCAL-00149" summary="Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média">
+      <created>1541864985262</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1541864985262</updated>
+    </task>
+    <task id="LOCAL-00150" summary="Escreva um programa que leia um valor em metros e o exiba convertido de km a milimetros">
+      <created>1541865196131</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865196131</updated>
+    </task>
+    <task id="LOCAL-00151" summary="Escreva um programa que leia um valor em metros e o exiba convertido em centimetros e milimetros">
+      <created>1541865221079</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865221079</updated>
+    </task>
+    <task id="LOCAL-00152" summary="Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.">
+      <created>1541865246086</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865246086</updated>
+    </task>
+    <task id="LOCAL-00153" summary="Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dolares, euros, libras, ienes, pesos argentinos e iuanes ela pode comprar. Considere US$ 1,00 = R$ 4,1193; EUR$ 1,00 = R$ 4,7969; GBP 1,00 = R$ 5,3519; JPY$ 1,00 = R$ 0,0372; ARS$ 1,00 = R$ 0,1075; CNY 1,00 = R$ 0,6029">
+      <created>1541865279576</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865279576</updated>
+    </task>
+    <task id="LOCAL-00154" summary="Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dolares ela pode comprar. Considere US$ 1,00 = R$ 3,27">
+      <created>1541865307000</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865307000</updated>
+    </task>
+    <task id="LOCAL-00155" summary="Faça um programa que leia a largura e a altura de uma parade em metros, calcule a sua área e quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2m²">
+      <created>1541865343360</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865343360</updated>
+    </task>
+    <task id="LOCAL-00156" summary="Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto">
+      <created>1541865370727</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865370727</updated>
+    </task>
+    <task id="LOCAL-00157" summary="Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário com 15% de aumento">
+      <created>1541865403667</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865403667</updated>
+    </task>
+    <task id="LOCAL-00158" summary="Escreva um programa que converta uma temperatura digitada em ºC e converta para ºF">
+      <created>1541865430510</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865430510</updated>
+    </task>
+    <task id="LOCAL-00159" summary="Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$ 60 por dia e R$ 0,15 por Km rodado">
+      <created>1541865457049</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865457050</updated>
+    </task>
+    <task id="LOCAL-00160" summary="Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua porção inteira Ex: Digite um numero: 6.127. O número 6.127 tem a parte inteira 6.">
+      <created>1541865522177</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865522178</updated>
+    </task>
+    <task id="LOCAL-00161" summary="Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.">
+      <created>1541865552106</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865552106</updated>
+    </task>
+    <task id="LOCAL-00162" summary="Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse angulo">
+      <created>1541865595369</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865595369</updated>
+    </task>
+    <task id="LOCAL-00163" summary="Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome escolhido.">
+      <created>1541865620283</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865620284</updated>
+    </task>
+    <task id="LOCAL-00164" summary="O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada">
+      <created>1541865651743</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865651743</updated>
+    </task>
+    <task id="LOCAL-00165" summary="Faça um programa que abra e reprodruza o áudio de um arquivo mp3">
+      <created>1541865823869</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865823869</updated>
+    </task>
+    <task id="LOCAL-00166" summary="Crie um programa que leia o nome completo de uma pessoa e mostre:&#10;- O nome com todas as letras maiúsculas;&#10;- O nome com todas minúsculas;&#10;- Quantas letras tem ao todosem considerar espaços;&#10;- Quantas letras tem o primeiro nome;">
+      <created>1541865859378</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865859378</updated>
+    </task>
+    <task id="LOCAL-00167" summary="Crie um programa que leia o nome completo de uma pessoa e mostre:&#10;- O nome com todas as letras maiúsculas;&#10;- O nome com todas minúsculas;&#10;- Quantas letras tem ao todosem considerar espaços;&#10;- Quantas letras tem o primeiro nome;">
+      <created>1541865926229</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865926229</updated>
+    </task>
+    <task id="LOCAL-00168" summary="Faça um programa que leia um número de 0 a 9999 e mostre na tela um dos dígitos separados.&#10;Ex: Digite um número: 1834&#10;unidade: 4&#10;dezena: 3&#10;centena: 8&#10;milhar: 1">
+      <created>1541865978574</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1541865978574</updated>
+    </task>
+    <task id="LOCAL-00169" summary="Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome 'Santo'">
+      <created>1541866006509</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1541866006509</updated>
+    </task>
+    <task id="LOCAL-00170" summary="Crie um programa que leia o nome de uma pessoa e diga se ela tem 'Silva' no nome">
+      <created>1541866035789</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1541866035789</updated>
+    </task>
+    <task id="LOCAL-00171" summary="Faça um programa que leia uma frase pelo teclado e mostre:&#10;- Quantas vezes aparece a letra 'A';&#10;- Em que posição ela aparece pela primeira vez;&#10;- Em que posição ela aparece pela ultima vez;">
+      <created>1541866168586</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1541866168586</updated>
+    </task>
+    <task id="LOCAL-00172" summary="Faça um programa que leia o nome de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.&#10;Ex.: Ana Maria de Souza&#10;Primeiro = Ana&#10;Último = Souza">
+      <created>1541866202754</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1541866202754</updated>
+    </task>
+    <task id="LOCAL-00173" summary="Escreva um programa que faça o computador 'pensar' em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu">
+      <created>1541866321803</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1541866321803</updated>
+    </task>
+    <task id="LOCAL-00174" summary="Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$ 7,00 por km acima do limite.">
+      <created>1541866354541</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1541866354541</updated>
+    </task>
+    <task id="LOCAL-00175" summary="Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR">
+      <created>1541866382172</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1541866382172</updated>
+    </task>
+    <option name="localTasksCounter" value="176" />
     <servers />
   </component>
   <component name="TodoView">
@@ -696,9 +731,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3301282" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16280295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.2497332" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -710,7 +746,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32968238" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51816237" side_tool="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51816237" side_tool="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32968238" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -740,404 +776,300 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Crie um programa que tenha uma tupla única com nomes de produtos e seus prestectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.&#10;&#10;- Alteração: simplificação do print" />
-    <MESSAGE value="Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais" />
-    <MESSAGE value="Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista." />
-    <MESSAGE value="Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista la dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados em ordem crescente" />
-    <MESSAGE value="Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela." />
-    <MESSAGE value="Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, mostre: a) quantos números foram digitados. b) a lista de valores ordenada de forma decrescente; c) se o valor 5 foi digitado e está ou não na lista" />
-    <MESSAGE value="Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente. Ao final, mostre o conteúdo das três listas geradas." />
-    <MESSAGE value="Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta" />
-    <MESSAGE value="Faça um programa que leia nome e peso de várias pessoas, guardando tudo em uma lista. No final, mostre: a) Quantas pessoas foram cadastradas b) uma listagem com as pessoas mais pesadas c) uma listagem com as pessoas mais leves." />
-    <MESSAGE value="Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e ímpares. No final, mostre os valores pares e ímpares em ordem crescente." />
-    <MESSAGE value="Crie um programa que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado. No final, mostre a matriz na tela, com a formatação correta." />
-    <MESSAGE value="Aprimore o desafio anterior, mostrando no final: a) a soma de todos os valores pares digitados b) a soma dos valores da terceira coluna c) o maior valor da segunda linha." />
-    <MESSAGE value="Faça um programa que ajude um jogador da mega sena a criar palpites. O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta." />
-    <MESSAGE value="Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente. Obs.: usar 999 para interromper a mostragem de notas individuais de alunos" />
-    <MESSAGE value="Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. No final, mostre o conteúdo da estrutura na tela. Obs.: se a média for 7 ou mais, está aprovado, se for &lt; 7, recuperação, se for &lt; 5 está reprovado." />
-    <MESSAGE value="Crie um programa onde 4 jogadores joguem um dado (1 a 6) e tenham resultados aleatórios. Guarde esses resultados em um dicionario. No final, coloque esse dicionario em ordem, sabendo que o vencedor tirou o maior número no dado. Obs.: haverá pequnas pausas antes do proximo resultado ser mostrado. Mostrar os valores sorteados e depois o ranking" />
-    <MESSAGE value="Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-os (com idade) em um dicionario se por acaso a CTPS for diferente de zero, o dicionario receberá também o ano de contratação e o salário. Calcule e acrescente, além da idade, com quantos anos a pessoa vai se aposentar. Obs.: Considerar que a pessoa se aposenta depois de 35 anos de contribuição." />
-    <MESSAGE value="Crie um programa que gerencie o aproveitamento de um jogador de futebol. O programa vai ler o nome do jogador e quantas partidas ele jogou. Depois vai ler a quantidade de gols feitos em cada partidade. No final, tudo isso será guardado em um dicionario, incluindo o total de gols feitos durante o campeonato. Obs.: a quantidade de gols deve ser guardado em uma lista." />
-    <MESSAGE value="Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de cada pessoa em um dicionario e todos os dicionarios em uma lista. No final, mostre: a) Quantas pessoas foram cadastradas b) a media de idade do grupo c) uma lista com todas as mulheres d) uma lista com todas as pessoas com idade acima da media" />
-    <MESSAGE value="Aprimore o dasafio 093 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador. Obs.: Caso seja digitado um jogardor que não esta na lista, gerar um erro. Usar a flag 999 para fazer o programa parar" />
-    <MESSAGE value="Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno." />
-    <MESSAGE value="Faça um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável. Obs.: Ajustar os traços ao tamanho da palavra" />
-    <MESSAGE value="Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o maior. Obs.: Informar quantos valores foram passados. Fazer pequenas pausas entre a exibição dos resultados" />
-    <MESSAGE value="Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e somaPar(). A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores pares sorteados pela função anterior." />
-    <MESSAGE value="Faça um programa que tenha uma função chamada contador(), que receba três parâmetros: início, fim e passo e realize a&#10;contagem. Seu programa tem que realizar três contagens através da função criada: a) De 1 até 10, de 1 em 1; b) De 10 até&#10;0, de 2 em 2; c) Uma contagem personalizada. Obs.: Se o passo for negativo, passar para positivo; Se o passo for 0,&#10;trocar para 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Faça um programa que tenha uma função chamada contador(), que receba três parâmetros: início, fim e passo e realize a&#10;contagem. Seu programa tem que realizar três contagens através da função criada: a) De 1 até 10, de 1 em 1; b) De 10 até&#10;0, de 2 em 2; c) Uma contagem personalizada. Obs.: Se o passo for negativo, passar para positivo; Se o passo for 0,&#10;trocar para 1" />
+    <MESSAGE value="Escreva um programa que leia um valor em metros e o exiba convertido de km a milimetros" />
+    <MESSAGE value="Escreva um programa que leia um valor em metros e o exiba convertido em centimetros e milimetros" />
+    <MESSAGE value="Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada." />
+    <MESSAGE value="Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dolares, euros, libras, ienes, pesos argentinos e iuanes ela pode comprar. Considere US$ 1,00 = R$ 4,1193; EUR$ 1,00 = R$ 4,7969; GBP 1,00 = R$ 5,3519; JPY$ 1,00 = R$ 0,0372; ARS$ 1,00 = R$ 0,1075; CNY 1,00 = R$ 0,6029" />
+    <MESSAGE value="Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dolares ela pode comprar. Considere US$ 1,00 = R$ 3,27" />
+    <MESSAGE value="Faça um programa que leia a largura e a altura de uma parade em metros, calcule a sua área e quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2m²" />
+    <MESSAGE value="Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto" />
+    <MESSAGE value="Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário com 15% de aumento" />
+    <MESSAGE value="Escreva um programa que converta uma temperatura digitada em ºC e converta para ºF" />
+    <MESSAGE value="Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$ 60 por dia e R$ 0,15 por Km rodado" />
+    <MESSAGE value="Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua porção inteira Ex: Digite um numero: 6.127. O número 6.127 tem a parte inteira 6." />
+    <MESSAGE value="Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa." />
+    <MESSAGE value="Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse angulo" />
+    <MESSAGE value="Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome escolhido." />
+    <MESSAGE value="O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada" />
+    <MESSAGE value="Faça um programa que abra e reprodruza o áudio de um arquivo mp3" />
+    <MESSAGE value="Crie um programa que leia o nome completo de uma pessoa e mostre:&#10;- O nome com todas as letras maiúsculas;&#10;- O nome com todas minúsculas;&#10;- Quantas letras tem ao todosem considerar espaços;&#10;- Quantas letras tem o primeiro nome;" />
+    <MESSAGE value="Faça um programa que leia um número de 0 a 9999 e mostre na tela um dos dígitos separados.&#10;Ex: Digite um número: 1834&#10;unidade: 4&#10;dezena: 3&#10;centena: 8&#10;milhar: 1" />
+    <MESSAGE value="Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome 'Santo'" />
+    <MESSAGE value="Crie um programa que leia o nome de uma pessoa e diga se ela tem 'Silva' no nome" />
+    <MESSAGE value="Faça um programa que leia uma frase pelo teclado e mostre:&#10;- Quantas vezes aparece a letra 'A';&#10;- Em que posição ela aparece pela primeira vez;&#10;- Em que posição ela aparece pela ultima vez;" />
+    <MESSAGE value="Faça um programa que leia o nome de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.&#10;Ex.: Ana Maria de Souza&#10;Primeiro = Ana&#10;Último = Souza" />
+    <MESSAGE value="Escreva um programa que faça o computador 'pensar' em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu" />
+    <MESSAGE value="Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$ 7,00 por km acima do limite." />
+    <MESSAGE value="Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR" />
+    <option name="LAST_COMMIT_MESSAGE" value="Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/desafio054 - Grupo da maioridade.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio055 - Maior e menor da sequencia.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio056 - Analisador completo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio052 - Numeros primos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio053 - Detector de palindromo.py">
+    <entry file="file://$PROJECT_DIR$/desafio090 - Dicionario em python.py" />
+    <entry file="file://$PROJECT_DIR$/desafio091 - Jogo de dados em python.py" />
+    <entry file="file://$PROJECT_DIR$/desafio092 - Cadastro de trabalhador em python.py" />
+    <entry file="file://$PROJECT_DIR$/desafio094 - Unindo dicionarios e listas.py" />
+    <entry file="file://$PROJECT_DIR$/desafio089 - Boletim com listas compostas.py" />
+    <entry file="file://$PROJECT_DIR$/desafio093 - Cadastro de jogador de futebol.py" />
+    <entry file="file://$PROJECT_DIR$/desafio095 - Aprimorando os dicionarios.py" />
+    <entry file="file://$PROJECT_DIR$/desafio096 - Funcao que calcula area.py" />
+    <entry file="file://$PROJECT_DIR$/desafio097 - Um print especial.py" />
+    <entry file="file://$PROJECT_DIR$/desafio099 -.py" />
+    <entry file="file://$PROJECT_DIR$/desafio100 -.py" />
+    <entry file="file://$PROJECT_DIR$/desafio098 - Funcao de contador.py" />
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio001.1 - Ola Mundo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="103" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafio028 - Jogo de Adivinhacao v.1.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio058 - Jogo de Adivinhacao v2.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio059 - Criando um menu de opcoes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio061 - Progressao aritmetica v2.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio051 - Progressao aritmetica.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio062 - Super progressao aritmedica v3.0.py">
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio001 - Ola Mundo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="33" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafio064 - Tratando varios valores v1.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio065 - Maior e menor valores.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio060 - Calculo do fatorial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="63" lean-forward="true" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio063 - Sequencia de fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio057 - Validacao de dados.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio066 - Varios numeros com flag.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio067 - Tabuada v3.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio068 - Jogo do par ou impar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio071 - Simulador de caixa eletronico.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio070 - Estatisticas em produtos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio069 - Analise de dados do grupo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio074 - Maior e menor valores com tupla.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio075 - Analise de dados em uma tupla.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio076 - Lista de precos com tuplas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio073 - Tuplas com times de futebol.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio072 - Numero por extenso.py">
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio002.1 - Data de nascimento.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="73" />
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafio077 - Contando vogais em tupla.py">
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio002 - Respondendo ao Usuario.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="116" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafio079 - Valores unicos em uma lista.py">
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio003 - Somando dois numeros.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafio078 - Maior e menor valores na lista.py">
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio004 - Dissecando uma variavel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio005 - Antecessor e Sucessor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio006 - Dobro, triplo, raiz quadrada.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio007 - Media aritmetica.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio008.1 - Conversor de medidas completo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafio083 - Validando expressões matematicas.py">
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio008 - Conversor de medidas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="76" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="96" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafio082 - Dividindo valores em varias listas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio081 - Extraindo dados de uma lista.py">
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio009 - Tabuada.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="115" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="84" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafio080 - Lista ordenada sem repeticoes.py">
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio010.1 - Conversor de moedas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafio086 - Matriz em Python.py">
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio010 - Conversor de moedas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="20" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafio085 - Listas com pares e impares.py">
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio011 - Pintando parede.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafio088 - Palpites para a mega sena.py">
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio012 - Calculando desconto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="92" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafio084 - Listas compostas e analise de dados.py">
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio013 - Reajuste salarial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="99" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafio087 - Mais sobre matriz em Python.py">
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio014 - Conversor de temperaturas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafio090 - Dicionario em python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio091 - Jogo de dados em python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio092 - Cadastro de trabalhador em python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio094 - Unindo dicionarios e listas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio089 - Boletim com listas compostas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio093 - Cadastro de jogador de futebol.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio095 - Aprimorando os dicionarios.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio096 - Funcao que calcula area.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <marker date="1541283226474" expanded="true" signature="192:276" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio097 - Um print especial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <marker date="1541284598209" expanded="true" signature="230:318" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio099 -.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <marker date="1541284864952" expanded="true" signature="437:672" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio100 -.py">
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio015 - Aluguel de carros.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#293#319#0" expanded="true" />
-            <marker date="1541286263509" expanded="true" signature="646:705" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafio098 - Funcao de contador.py">
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio016 - Quebrando um numero.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <marker date="1541290611824" expanded="true" signature="594:890" ph="..." />
-          </folding>
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio017 - Catetos e hipotenusas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio018 - Seno, cosseno e tangente.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio019 - Sorteando um item na lista.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio020 - Sorteando uma ordem na lista.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio021 - Tocando um mp3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio022 - Analisador de textos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio023 - Separando digitos de um numero.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio024 - Verificando as primeiras letras de um texto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="86" lean-forward="true" selection-start-line="1" selection-start-column="86" selection-end-line="1" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio025 - Procurando uma string dentro de outra.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio026 - Primeira e ultima ocorrencia de uma string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio027 - Primeiro e ultimo nome de uma pessoa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio028 - Jogo de Adivinhacao v.1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio029 - Radas eletronico.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio030 - Par ou impar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio032 - Ano bissexto.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio033 - Maior e menor valores.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio034 - Aumentos multiplos.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio035 - Analisando triangulos v1.0.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mundo 01/desafio031 - Custo da viagem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="64" />
         </state>
       </provider>
     </entry>
