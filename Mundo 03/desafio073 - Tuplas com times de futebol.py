@@ -6,6 +6,7 @@ times em ordem alfabética; d) em que posição na tabela está o time da chapec
 times = ('Palmeiras', 'Internacional', 'São Paulo', 'Grêmio', 'Flamengo', 'Atlético Mineiro', 'Cruzeiro', 'Santos',
          'Corinthians', 'Fluminense', 'Atlético-PR', 'Botafogo', 'América-MG', 'Bahia', 'Ceará', 'Vasco da Gama',
          'Vitória', 'Chapecoense', 'Sport Recife', 'Paraná')
+
 print('-' * 50)
 print(f'Os cinco primeiros colocados da tabela são: {times[:5]}')
 print('-' * 50)
