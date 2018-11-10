@@ -1,7 +1,7 @@
 """ Desafio 099
 Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. Seu programa
 tem que analisar todos os valores e dizer qual deles é o maior. Obs.: Informar quantos valores foram passados. Fazer
-pequenas pausas entre a exibição dos resultados"""
+pequenas pausas entre a exibição dos resultados """
 
 from time import sleep
 
