@@ -1,7 +1,8 @@
 """ Desafio 055
-Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos. """
+Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos """
 
 peso = float(input('Informe o seu peso: '))
+
 menor = peso
 maior = peso
 
