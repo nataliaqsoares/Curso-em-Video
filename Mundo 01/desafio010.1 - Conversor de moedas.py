@@ -1,4 +1,4 @@
-"""Desafio 010
+""" Desafio 010
 Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dolares, euros, libras, ienes,
 pesos argentinos e iuanes ela pode comprar. Considere US$ 1,00 = R$ 4,1193; EUR$ 1,00 = R$ 4,7969; GBP 1,00 = R$ 5,3519;
 JPY$ 1,00 = R$ 0,0372; ARS$ 1,00 = R$ 0,1075; CNY 1,00 = R$ 0,6029 """
