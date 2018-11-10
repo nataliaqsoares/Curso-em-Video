@@ -1,7 +1,7 @@
 """ Desafio 036
 Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da
 casa, o salário do comprador e em quantos anos ele vai pagar. Calcule o valor da prestação mensal, sabendo que ela não
-pode exceder 30% do salário ou então o empréstimo será negado. """
+pode exceder 30% do salário ou então o empréstimo será negado """
 
 valor_casa = float(input('Qual valor da casa que deseja financiar? R$'))
 salario = float(input('Qual seu salário mensal? R$'))
