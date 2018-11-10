@@ -5,7 +5,7 @@ Faça um programa que leia o ano de nascimento e o sexo dos jovem e informe, de 
 - Se ele ainda vai se alistar ao serviço militar 'Faltam x anos para você se alistar';
 - Se é a hora de se alistar 'Se aliste agora';
 - Se já passou do tempo do alistamento 'Já passaram x anos do seu alistamento'.
-Seu programa também deverá mostrar o tempo que falta ou que passou do prazo"""
+Seu programa também deverá mostrar o tempo que falta ou que passou do prazo """
 
 from datetime import date
 
