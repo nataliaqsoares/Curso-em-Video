@@ -1,10 +1,10 @@
 """ Desafio 023
 Faça um programa que leia um número de 0 a 9999 e mostre na tela um dos dígitos separados.
 Ex: Digite um número: 1834
-unidade: 4
-dezena: 3
-centena: 8
-milhar: 1 """
+Unidade: 4
+Dezena: 3
+Centena: 8
+Milhar: 1 """
 
 # Solução 1: com está solução só é possível obter o resulatdo esperado quando se coloca as quatro unidades
 num = input('Digite um número entre 0 e 9999: ')
