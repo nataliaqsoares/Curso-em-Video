@@ -1,7 +1,7 @@
 """ Desafio 095
 Aprimore o dasafio 093 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do
 aproveitamento de cada jogador. Obs.: Caso seja digitado um jogardor que não esta na lista, gerar um erro. Usar a flag
-999 para fazer o programa parar"""
+999 para fazer o programa parar """
 
 time = list()
 jogador = dict()
