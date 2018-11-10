@@ -4,6 +4,7 @@ apareceu o valor 9; b) em que posição foi digitado o primeiro valor 3; c) quai
 
 conjunto = (int(input('Informe um número: ')), int(input('Informe um número: ')), int(input('Informe um número: ')),
             int(input('Informe um número: ')),)
+
 cont = 0
 
 print(f'Foram informados os números: {conjunto}\nO 9 apareceu {conjunto.count(9)} vezes')
