@@ -8,7 +8,6 @@ from time import sleep
 
 def maior(*conj):
     maior2 = cont = 0
-    print('-' * 40)
     print('Os números passados foram: ', end='')
     for num in conj:
         if num > maior2:
@@ -20,6 +19,7 @@ def maior(*conj):
     print('-' * 40)
 
 
+# Programa Principal
 maior(2, 9, 4, 5, 7, 1)
 maior(4, 7, 0)
 maior(1, 2)
