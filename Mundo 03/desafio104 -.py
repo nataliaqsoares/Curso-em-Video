@@ -3,9 +3,9 @@ Crie um programa que tenha a função leiaInt(), que vai funcionar de forma seme
 fazendo a validação para aceitar apenas um valor numérico. Ex: n = leiaInt('Digite um n') """
 
 
-def leiaInt(str):
+def leiaint(string):
     while True:
-        num = input(str)
+        num = input(string)
         if num.isnumeric():
             return num
         else:
@@ -13,5 +13,5 @@ def leiaInt(str):
 
 
 # Programa Principal
-n = leiaInt('Digite um número: ')
+n = leiaint('Digite um número: ')
 print(f'Você acabou de digitar o número {n}')
